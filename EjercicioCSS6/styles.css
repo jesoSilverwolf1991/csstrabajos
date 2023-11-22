@@ -1,0 +1,7 @@
+.lista-vinetas {
+    list-style-type: square; 
+}
+
+.lista-numeros {
+    list-style-type: lower-roman; 
+}

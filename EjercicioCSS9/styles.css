@@ -1,0 +1,25 @@
+
+.seccion-1 .custom-header {
+    background-color: #3498db; 
+    color: white; 
+    padding: 10px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+ 
+  .seccion-2 .custom-header {
+    background-color: #e74c3c; 
+    color: white;
+    padding: 10px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  body{
+    background-color: black;
+  }
+  
+  p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  

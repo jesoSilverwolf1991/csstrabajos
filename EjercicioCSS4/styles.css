@@ -1,0 +1,15 @@
+.imagen-con-borde {
+    border: 2px solid #fff; /* Agrega un borde de 2 píxeles de ancho y color negro */
+    margin: 10px; /* Agrega un margen de 10 píxeles alrededor de la imagen */
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: #000;
+}
+

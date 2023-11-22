@@ -1,0 +1,17 @@
+
+a {
+    color: #fff; 
+    text-decoration: none; 
+    transition: color 0.3s;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+ 
+  a:hover {
+    color: #007BFF; 
+  }
+
+  body{
+    background-color: black;
+  }
+  
